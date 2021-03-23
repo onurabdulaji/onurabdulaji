@@ -1,26 +1,13 @@
-- 👋 Hi, I’m @onurabdulaji
-- 👀 I’m interested in Web App Development.
-- 🌱 I’m currently learning (Everything)
-- 📫 How to reach me  ... onurabdulaji@gmail.com
+Merhabalar ,
 
+Ben Onur Abdulaji ,
 
+Öğrenmek ve insanların öğrenmesini sağlamak her zaman benim tutkumdur.
 
-- Merhaba ben Onur Abdulaji.
-- Ilgilendigim alan Web Gelistirme.
-- Hedefim yazilim hakkinda herseyi ogrenme
-- Bana email uzerinden erisebilirsiniz...onurabdulaji@gmail.com
+Kariyerimin bu yılları boyunca çok şey öğrendim ve henüz öğrenilecek çok şey var.
 
+Her zaman yeni fırsatlara açığım, Teknolojiye, öğretmeye, planlamaya, yazilima tutkum var ve hevesli bir araştırmacıyım.
 
+İlgi alanım daha çok Web Uygulamaları geliştirmek üzerine olmakla birlikte son zamanlarda ilgilendiğim teknolojiler ; Asp net core mvc,  Python, ve Javascript tabanlı geliştirilen uygulamalardır. Dolayısıyla NodeJs, Angular, React ve VueJs bir hayli ilgimi çekmektedir.
 
-<!---
-Merhab
---->
-
-
-
-
-
-<!---
-onurabdulaji/onurabdulaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bana email uzerinden erisebilirsiniz...onurabdulaji@gmail.com
