@@ -1,6 +1,6 @@
 Merhabalar ,
 
-Ben Onur Abdulaji ,
+Ben Onur Abdulai ,
 
 Öğrenmek ve insanların öğrenmesini sağlamak her zaman benim tutkumdur.
 
@@ -10,4 +10,4 @@ Her zaman yeni fırsatlara açığım, Teknolojiye, öğretmeye, planlamaya, yaz
 
 İlgi alanım daha çok Web Uygulamaları geliştirmek üzerine olmakla birlikte son zamanlarda ilgilendiğim teknolojiler ; Asp net core mvc,  Python, ve Javascript tabanlı geliştirilen uygulamalardır. Dolayısıyla NodeJs, Angular, React ve VueJs bir hayli ilgimi çekmektedir.
 
-Bana email uzerinden erisebilirsiniz .... onurabdulaji@gmail.com
+Bana email uzerinden erisebilirsiniz .... onurabdulai@outlook.com
