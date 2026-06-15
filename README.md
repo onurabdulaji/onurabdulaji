@@ -1,6 +1,7 @@
 # Hi there, I'm Onur Abdulaji 👋
 ### Senior Software Engineer & Security Developer
 I am a Senior Software Engineer specializing in scalable enterprise backend architectures, .NET microservices, secure API gateways, and Security Operations (SecOps) automations. I build resilient distributed systems and security pipeline integrations.
+
 🌐 **Portfolio Website**: [onurdev.netlify.app](https://onurdev.netlify.app)  
 💼 **LinkedIn**: [linkedin.com/in/onur-abdulaji](https://mk.linkedin.com/in/onur-abdulaji)  
 ✉️ **Email**: [onurabdulaji@gmail.com](mailto:onurabdulaji@gmail.com)
