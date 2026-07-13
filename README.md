@@ -34,22 +34,30 @@ I'm a **Senior Software Engineer** who builds scalable enterprise backends, .NET
 
 **Frontend & Web**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**SecOps & Messaging**
+**Messaging, SecOps & DevOps**
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Data & Observability**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
-### 📂 Featured Projects
+### 🚀 Featured Projects
 
 #### 🏪 [E-Shop Modular Monolith](https://github.com/onurabdulaji/E-Shop-Modular-Monolith)
 Modular monolith architecture with .NET — clean boundaries without microservice overhead.
@@ -57,17 +65,24 @@ Modular monolith architecture with .NET — clean boundaries without microservic
 #### 🧩 [EShopMicroservices](https://github.com/onurabdulaji/EShopMicroservices)
 Event-driven e-commerce built on .NET microservices, RabbitMQ & MassTransit.
 
-#### 📨 [OA.Wolverine.Messaging](https://github.com/onurabdulaji/OA.Wolverine.Messaging)
-Wolverine messaging abstraction for CQRS-style command/event dispatch.
-
-#### ✅ [OA.Result](https://github.com/onurabdulaji/OA.Result) · [OA.Abstractions.CQRS](https://github.com/onurabdulaji/OA.Abstractions.CQRS)
-Small, reusable .NET libraries: a Result pattern and a CQRS abstraction (MediatR + Wolverine).
-
 #### 🚗 [RentCarServer](https://github.com/onurabdulaji/RentCarServer) + [RentCarClient](https://github.com/onurabdulaji/RentCarClient)
 Full rent-a-car application — .NET API backend with a responsive frontend.
 
 #### 🤖 [NetAi](https://github.com/onurabdulaji/NetAi)
 Experimenting with AI capabilities on .NET Core.
+
+---
+
+### 📦 Open Source Libraries & Packages
+
+#### 📨 [OA.Wolverine.Messaging](https://github.com/onurabdulaji/OA.Wolverine.Messaging)
+Wolverine messaging abstraction for CQRS-style command/event dispatch.
+
+#### ✅ [OA.Result](https://github.com/onurabdulaji/OA.Result)
+A small, reusable .NET Result pattern implementation.
+
+#### 🧱 [OA.Abstractions.CQRS](https://github.com/onurabdulaji/OA.Abstractions.CQRS)
+CQRS design-pattern abstraction (MediatR + Wolverine).
 
 > 🔗 See all my work at [github.com/onurabdulaji?tab=repositories](https://github.com/onurabdulaji?tab=repositories)
 
