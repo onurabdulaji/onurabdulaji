@@ -79,6 +79,15 @@ Experimenting with AI capabilities on .NET Core.
 
 ---
 
+### 🏆 Featured Work
+
+- **National SOC** — National-scale Security Operations Center: Wazuh · TheHive · Shuffle SOAR for threat detection, case management & automated response.
+- **Adinsure** — Insurance platform on .NET microservices & secure API gateways.
+- **Star Company** — [description pending — add your blurb here]
+- **SynapseHR** — HR management system with self-service workflows.
+
+---
+
 ### 📦 Open Source Libraries & Packages
 
 #### 📨 [OA.Wolverine.Messaging](https://github.com/onurabdulaji/OA.Wolverine.Messaging)
