@@ -1,7 +1,7 @@
 # Hi there, I'm Onur Abdulaji 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Software+Engineer;Security+%26+DevOps+Enthusiast;.NET+%7C+Microservices+%7C+SecOps;Building+resilient+systems...&font=Fira%20Code&center=true&width=600&height=45&color=0e75b6&vCenter=true&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Software+%26+Systems+Engineer;Security+%26+DevOps+Enthusiast;.NET+%7C+Microservices+%7C+SecOps;Building+resilient+systems...&font=Fira%20Code&center=true&width=600&height=45&color=0e75b6&vCenter=true&pause=1000" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Senior Software Engineer** who builds scalable enterprise backends, .NET microservices, and secure API gateways — and wires them into **Security Operations (SecOps)** automations. I like resilient distributed systems, clean architecture, and pipelines that don't page me at 3am.
+I'm a **Senior Software & Systems Engineer** who builds scalable enterprise backends, .NET microservices, and secure API gateways — and wires them into **Security Operations (SecOps)** automations. I like resilient distributed systems, clean architecture, and pipelines that don't page me at 3am.
 
 - 🔭 Currently building **national SOC platform** integrations (Wazuh · TheHive · Shuffle SOAR)
 - 🌱 Exploring **.NET + AI** and event-driven architectures
@@ -31,6 +31,7 @@ I'm a **Senior Software Engineer** who builds scalable enterprise backends, .NET
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
 
 **Frontend & Web**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -43,6 +44,9 @@ I'm a **Senior Software Engineer** who builds scalable enterprise backends, .NET
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Cortex](https://img.shields.io/badge/Cortex-2A2A2A?style=for-the-badge)
+![MISP](https://img.shields.io/badge/MISP-0089C7?style=for-the-badge)
 
 **Data & Observability**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -50,10 +54,12 @@ I'm a **Senior Software Engineer** who builds scalable enterprise backends, .NET
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Cloud**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
