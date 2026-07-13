@@ -83,7 +83,7 @@ Experimenting with AI capabilities on .NET Core.
 
 - **National SOC** — National-scale Security Operations Center: Wazuh · TheHive · Shuffle SOAR for threat detection, case management & automated response.
 - **Adinsure** — Insurance platform on .NET microservices & secure API gateways.
-- **Star Company** — [description pending — add your blurb here]
+- **Star Company** — Web development.
 - **SynapseHR** — HR management system with self-service workflows.
 
 ---
